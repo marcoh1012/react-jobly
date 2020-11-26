@@ -1,0 +1,9 @@
+.companies{
+    padding-top: 2rem;
+}
+
+.companies li{
+    list-style-type: none !important;
+    border: none;
+
+}

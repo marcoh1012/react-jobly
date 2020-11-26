@@ -1,0 +1,8 @@
+.JobTitle{
+    /* display: flex; */
+}
+
+.ApplyButton{
+ position: absolute;
+ right: 2rem;
+}

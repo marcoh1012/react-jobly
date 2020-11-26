@@ -1,0 +1,28 @@
+.card{
+    border: 1px black solid;
+    text-align: left;
+    padding: 1.3rem;
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+    color: black;
+    text-decoration: none;
+}
+
+.card img{
+    width: 150px;
+    margin: 1rem;
+    border-radius: 100%;
+}
+
+
+.card-title{
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+
+.card-body{
+    padding-bottom: 2rem;
+}
+
